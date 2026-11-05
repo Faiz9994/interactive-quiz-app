@@ -26,6 +26,18 @@ An interactive, browser-based quiz application built using HTML, CSS, and Vanill
 - **JSON** – Question bank storage
 - **LocalStorage** – Best score persistence
 
+## Live Demo
+
+[Try Interactive Quiz Application](https://faiz9994.github.io/interactive-quiz-app/)
+
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### Quiz Screen
+![Quiz Screen](screenshots/quiz.png)
+
 ## Project Structure
 
 ```text
