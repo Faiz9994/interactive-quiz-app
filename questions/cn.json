@@ -1,0 +1,163 @@
+
+[
+  {
+    "id": 61,
+    "category": "Computer Networks",
+    "difficulty": "Easy",
+    "question": "Which layer of the OSI model is responsible for routing?",
+    "options": ["Physical", "Data Link", "Network", "Presentation"],
+    "correctAnswer": "Network"
+  },
+  {
+    "id": 62,
+    "category": "Computer Networks",
+    "difficulty": "Easy",
+    "question": "Which protocol translates domain names into IP addresses?",
+    "options": ["DHCP", "DNS", "FTP", "SMTP"],
+    "correctAnswer": "DNS"
+  },
+  {
+    "id": 63,
+    "category": "Computer Networks",
+    "difficulty": "Easy",
+    "question": "Which protocol is connection-oriented?",
+    "options": ["UDP", "IP", "TCP", "ICMP"],
+    "correctAnswer": "TCP"
+  },
+  {
+    "id": 64,
+    "category": "Computer Networks",
+    "difficulty": "Easy",
+    "question": "What is the default port number for HTTPS?",
+    "options": ["21", "25", "80", "443"],
+    "correctAnswer": "443"
+  },
+  {
+    "id": 65,
+    "category": "Computer Networks",
+    "difficulty": "Easy",
+    "question": "Which network device forwards frames using MAC addresses?",
+    "options": ["Router", "Switch", "Modem", "Repeater"],
+    "correctAnswer": "Switch"
+  },
+  {
+    "id": 66,
+    "category": "Computer Networks",
+    "difficulty": "Easy",
+    "question": "How many bits are present in an IPv4 address?",
+    "options": ["16", "32", "64", "128"],
+    "correctAnswer": "32"
+  },
+  {
+    "id": 67,
+    "category": "Computer Networks",
+    "difficulty": "Easy",
+    "question": "Which protocol automatically assigns IP configuration to network devices?",
+    "options": ["DNS", "DHCP", "ARP", "SSH"],
+    "correctAnswer": "DHCP"
+  },
+  {
+    "id": 68,
+    "category": "Computer Networks",
+    "difficulty": "Medium",
+    "question": "Which TCP mechanism controls the sender's rate based on the receiver's capacity?",
+    "options": ["Flow Control", "DNS Resolution", "ARP Caching", "NAT"],
+    "correctAnswer": "Flow Control"
+  },
+  {
+    "id": 69,
+    "category": "Computer Networks",
+    "difficulty": "Medium",
+    "question": "Which protocol maps an IPv4 address to a MAC address on a local network?",
+    "options": ["ARP", "DNS", "TLS", "SMTP"],
+    "correctAnswer": "ARP"
+  },
+  {
+    "id": 70,
+    "category": "Computer Networks",
+    "difficulty": "Medium",
+    "question": "What does a subnet mask identify?",
+    "options": ["Network and host portions of an IP address", "Transport protocol", "MAC address vendor", "DNS server port"],
+    "correctAnswer": "Network and host portions of an IP address"
+  },
+  {
+    "id": 71,
+    "category": "Computer Networks",
+    "difficulty": "Medium",
+    "question": "Which TCP flag is used to initiate a connection?",
+    "options": ["FIN", "SYN", "RST", "PSH"],
+    "correctAnswer": "SYN"
+  },
+  {
+    "id": 72,
+    "category": "Computer Networks",
+    "difficulty": "Medium",
+    "question": "Which protocol is commonly used to send email between mail servers?",
+    "options": ["SMTP", "POP3", "IMAP", "SNMP"],
+    "correctAnswer": "SMTP"
+  },
+  {
+    "id": 73,
+    "category": "Computer Networks",
+    "difficulty": "Medium",
+    "question": "What is the main purpose of NAT in many IPv4 networks?",
+    "options": ["Translate private and public IP addresses", "Encrypt application data", "Resolve domain names", "Detect bit errors"],
+    "correctAnswer": "Translate private and public IP addresses"
+  },
+  {
+    "id": 74,
+    "category": "Computer Networks",
+    "difficulty": "Medium",
+    "question": "Which transport protocol does not provide built-in retransmission or ordering guarantees?",
+    "options": ["TCP", "UDP", "SCTP", "TLS"],
+    "correctAnswer": "UDP"
+  },
+  {
+    "id": 75,
+    "category": "Computer Networks",
+    "difficulty": "Hard",
+    "question": "How many total IPv4 addresses are present in a /26 subnet?",
+    "options": ["32", "64", "128", "256"],
+    "correctAnswer": "64"
+  },
+  {
+    "id": 76,
+    "category": "Computer Networks",
+    "difficulty": "Hard",
+    "question": "Which TCP feature adjusts the sender's transmission rate to avoid overloading the network?",
+    "options": ["Congestion Control", "Name Resolution", "Address Resolution", "Port Forwarding"],
+    "correctAnswer": "Congestion Control"
+  },
+  {
+    "id": 77,
+    "category": "Computer Networks",
+    "difficulty": "Hard",
+    "question": "What is the purpose of the TLS handshake?",
+    "options": ["Negotiate cryptographic parameters and establish shared keys", "Assign a private IP address", "Resolve a hostname", "Choose a Wi-Fi channel"],
+    "correctAnswer": "Negotiate cryptographic parameters and establish shared keys"
+  },
+  {
+    "id": 78,
+    "category": "Computer Networks",
+    "difficulty": "Hard",
+    "question": "Which routing protocol is a link-state interior gateway protocol?",
+    "options": ["RIP", "BGP", "OSPF", "Babel"],
+    "correctAnswer": "OSPF"
+  },
+  {
+    "id": 79,
+    "category": "Computer Networks",
+    "difficulty": "Hard",
+    "question": "What does a router primarily use to choose the next hop for a packet?",
+    "options": ["Routing Table", "Browser Cache", "ARP Request Payload Only", "Application Cookies"],
+    "correctAnswer": "Routing Table"
+  },
+  {
+    "id": 80,
+    "category": "Computer Networks",
+    "difficulty": "Hard",
+    "question": "In TCP, what does the receiver window primarily advertise?",
+    "options": ["How much data the receiver can accept", "The sender's public IP address", "The path MTU only", "The number of DNS records"],
+    "correctAnswer": "How much data the receiver can accept"
+  }
+]

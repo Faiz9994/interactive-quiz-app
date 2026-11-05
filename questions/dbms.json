@@ -1,0 +1,163 @@
+
+[
+  {
+    "id": 21,
+    "category": "DBMS & SQL",
+    "difficulty": "Easy",
+    "question": "What does DBMS stand for?",
+    "options": ["Database Management System", "Data Backup Management Service", "Digital Base Mapping System", "Database Machine Software"],
+    "correctAnswer": "Database Management System"
+  },
+  {
+    "id": 22,
+    "category": "DBMS & SQL",
+    "difficulty": "Easy",
+    "question": "Which SQL command is used to retrieve rows from a table?",
+    "options": ["GET", "SELECT", "FETCH TABLE", "READ"],
+    "correctAnswer": "SELECT"
+  },
+  {
+    "id": 23,
+    "category": "DBMS & SQL",
+    "difficulty": "Easy",
+    "question": "Which key uniquely identifies each row in a table?",
+    "options": ["Foreign Key", "Primary Key", "Alternate Key", "Composite View"],
+    "correctAnswer": "Primary Key"
+  },
+  {
+    "id": 24,
+    "category": "DBMS & SQL",
+    "difficulty": "Easy",
+    "question": "Which SQL clause filters rows before grouping?",
+    "options": ["HAVING", "ORDER BY", "WHERE", "GROUP BY"],
+    "correctAnswer": "WHERE"
+  },
+  {
+    "id": 25,
+    "category": "DBMS & SQL",
+    "difficulty": "Easy",
+    "question": "Which SQL function counts the number of rows?",
+    "options": ["SUM()", "COUNT()", "TOTAL()", "NUMBER()"],
+    "correctAnswer": "COUNT()"
+  },
+  {
+    "id": 26,
+    "category": "DBMS & SQL",
+    "difficulty": "Easy",
+    "question": "What is the primary purpose of a foreign key?",
+    "options": ["Encrypt a column", "Enforce a relationship between tables", "Sort rows", "Create a backup"],
+    "correctAnswer": "Enforce a relationship between tables"
+  },
+  {
+    "id": 27,
+    "category": "DBMS & SQL",
+    "difficulty": "Easy",
+    "question": "Which SQL command removes all rows while retaining the table structure?",
+    "options": ["DROP", "TRUNCATE", "ALTER", "RENAME"],
+    "correctAnswer": "TRUNCATE"
+  },
+  {
+    "id": 28,
+    "category": "DBMS & SQL",
+    "difficulty": "Medium",
+    "question": "Which normal form removes partial functional dependency on a candidate key?",
+    "options": ["1NF", "2NF", "3NF", "BCNF"],
+    "correctAnswer": "2NF"
+  },
+  {
+    "id": 29,
+    "category": "DBMS & SQL",
+    "difficulty": "Medium",
+    "question": "Which SQL clause filters grouped results?",
+    "options": ["WHERE", "HAVING", "LIMIT", "DISTINCT"],
+    "correctAnswer": "HAVING"
+  },
+  {
+    "id": 30,
+    "category": "DBMS & SQL",
+    "difficulty": "Medium",
+    "question": "What does an INNER JOIN return?",
+    "options": ["All rows from the left table", "Only matching rows from both tables", "All rows from both tables regardless of matching", "Only unmatched rows"],
+    "correctAnswer": "Only matching rows from both tables"
+  },
+  {
+    "id": 31,
+    "category": "DBMS & SQL",
+    "difficulty": "Medium",
+    "question": "Which ACID property ensures that committed data survives a system crash?",
+    "options": ["Atomicity", "Consistency", "Isolation", "Durability"],
+    "correctAnswer": "Durability"
+  },
+  {
+    "id": 32,
+    "category": "DBMS & SQL",
+    "difficulty": "Medium",
+    "question": "What is the primary purpose of a database index?",
+    "options": ["Reduce query lookup time", "Increase duplicate rows", "Replace primary keys", "Encrypt records"],
+    "correctAnswer": "Reduce query lookup time"
+  },
+  {
+    "id": 33,
+    "category": "DBMS & SQL",
+    "difficulty": "Medium",
+    "question": "Which SQL statement modifies existing rows in a table?",
+    "options": ["UPDATE", "ALTER", "CREATE", "GRANT"],
+    "correctAnswer": "UPDATE"
+  },
+  {
+    "id": 34,
+    "category": "DBMS & SQL",
+    "difficulty": "Medium",
+    "question": "What is a SAVEPOINT used for inside a transaction?",
+    "options": ["Permanently commit all changes", "Mark a point for partial rollback", "Create a new database", "Lock every table"],
+    "correctAnswer": "Mark a point for partial rollback"
+  },
+  {
+    "id": 35,
+    "category": "DBMS & SQL",
+    "difficulty": "Hard",
+    "question": "Which concurrency anomaly occurs when a transaction reads uncommitted changes made by another transaction?",
+    "options": ["Dirty Read", "Phantom Read", "Lost Update", "Non-repeatable Read"],
+    "correctAnswer": "Dirty Read"
+  },
+  {
+    "id": 36,
+    "category": "DBMS & SQL",
+    "difficulty": "Hard",
+    "question": "A schedule is conflict-serializable if its precedence graph is:",
+    "options": ["Cyclic", "Acyclic", "Complete", "Disconnected"],
+    "correctAnswer": "Acyclic"
+  },
+  {
+    "id": 37,
+    "category": "DBMS & SQL",
+    "difficulty": "Hard",
+    "question": "Which normal form eliminates transitive dependencies of non-key attributes?",
+    "options": ["1NF", "2NF", "3NF", "4NF"],
+    "correctAnswer": "3NF"
+  },
+  {
+    "id": 38,
+    "category": "DBMS & SQL",
+    "difficulty": "Hard",
+    "question": "For a composite index on columns (A, B), which query pattern can generally use its leading-column prefix?",
+    "options": ["Filtering by A or by A and B", "Filtering only by B", "Filtering by an unrelated column C", "Filtering by any column without conditions"],
+    "correctAnswer": "Filtering by A or by A and B"
+  },
+  {
+    "id": 39,
+    "category": "DBMS & SQL",
+    "difficulty": "Hard",
+    "question": "Which join returns every row from the left table and matching rows from the right table?",
+    "options": ["CROSS JOIN", "LEFT OUTER JOIN", "INNER JOIN", "SELF JOIN"],
+    "correctAnswer": "LEFT OUTER JOIN"
+  },
+  {
+    "id": 40,
+    "category": "DBMS & SQL",
+    "difficulty": "Hard",
+    "question": "In two-phase locking, when can a transaction release locks?",
+    "options": ["During the growing phase", "Only after acquiring its first lock", "During the shrinking phase, after it stops acquiring locks", "Before it starts"],
+    "correctAnswer": "During the shrinking phase, after it stops acquiring locks"
+  }
+]

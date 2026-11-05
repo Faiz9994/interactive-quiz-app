@@ -1,0 +1,163 @@
+
+[
+  {
+    "id": 161,
+    "category": "Aptitude",
+    "difficulty": "Easy",
+    "question": "What is 25% of 240?",
+    "options": ["40", "50", "60", "80"],
+    "correctAnswer": "60"
+  },
+  {
+    "id": 162,
+    "category": "Aptitude",
+    "difficulty": "Easy",
+    "question": "A number increases from 80 to 100. What is the percentage increase?",
+    "options": ["20%", "25%", "30%", "40%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "id": 163,
+    "category": "Aptitude",
+    "difficulty": "Easy",
+    "question": "The ratio of two numbers is 3:5 and their sum is 64. What is the smaller number?",
+    "options": ["18", "24", "30", "40"],
+    "correctAnswer": "24"
+  },
+  {
+    "id": 164,
+    "category": "Aptitude",
+    "difficulty": "Easy",
+    "question": "Find the average of 10, 20, 30, 40 and 50.",
+    "options": ["25", "30", "35", "40"],
+    "correctAnswer": "30"
+  },
+  {
+    "id": 165,
+    "category": "Aptitude",
+    "difficulty": "Easy",
+    "question": "A product is bought for ₹500 and sold for ₹600. What is the profit percentage?",
+    "options": ["10%", "15%", "20%", "25%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "id": 166,
+    "category": "Aptitude",
+    "difficulty": "Easy",
+    "question": "A car travels 150 km in 3 hours. What is its average speed?",
+    "options": ["40 km/h", "45 km/h", "50 km/h", "60 km/h"],
+    "correctAnswer": "50 km/h"
+  },
+  {
+    "id": 167,
+    "category": "Aptitude",
+    "difficulty": "Medium",
+    "question": "A can complete a job in 12 days and B in 6 days. How many days will they take working together?",
+    "options": ["3 days", "4 days", "5 days", "6 days"],
+    "correctAnswer": "4 days"
+  },
+  {
+    "id": 168,
+    "category": "Aptitude",
+    "difficulty": "Medium",
+    "question": "A train 120 metres long crosses a pole in 6 seconds. What is its speed?",
+    "options": ["60 km/h", "66 km/h", "72 km/h", "80 km/h"],
+    "correctAnswer": "72 km/h"
+  },
+  {
+    "id": 169,
+    "category": "Aptitude",
+    "difficulty": "Medium",
+    "question": "An article marked at ₹1,000 is sold at a 10% discount. What is its selling price?",
+    "options": ["₹800", "₹850", "₹900", "₹950"],
+    "correctAnswer": "₹900"
+  },
+  {
+    "id": 170,
+    "category": "Aptitude",
+    "difficulty": "Medium",
+    "question": "If 5 workers complete a job in 12 days, how many days will 10 workers take at the same rate?",
+    "options": ["4 days", "5 days", "6 days", "8 days"],
+    "correctAnswer": "6 days"
+  },
+  {
+    "id": 171,
+    "category": "Aptitude",
+    "difficulty": "Medium",
+    "question": "A sum of ₹5,000 is invested at 10% simple interest per year for 2 years. What is the interest earned?",
+    "options": ["₹500", "₹750", "₹1,000", "₹1,500"],
+    "correctAnswer": "₹1,000"
+  },
+  {
+    "id": 172,
+    "category": "Aptitude",
+    "difficulty": "Medium",
+    "question": "A bag contains 3 red balls and 2 blue balls. What is the probability of selecting a blue ball at random?",
+    "options": ["1/5", "2/5", "3/5", "4/5"],
+    "correctAnswer": "2/5"
+  },
+  {
+    "id": 173,
+    "category": "Aptitude",
+    "difficulty": "Medium",
+    "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+    "options": ["36", "40", "42", "44"],
+    "correctAnswer": "42"
+  },
+  {
+    "id": 174,
+    "category": "Aptitude",
+    "difficulty": "Medium",
+    "question": "A father is three times as old as his son. Their combined age is 48 years. How old is the son?",
+    "options": ["10 years", "12 years", "14 years", "16 years"],
+    "correctAnswer": "12 years"
+  },
+  {
+    "id": 175,
+    "category": "Aptitude",
+    "difficulty": "Hard",
+    "question": "A and B invest ₹6,000 and ₹8,000 respectively in a business for the same period. If the total profit is ₹7,000, what is B's share?",
+    "options": ["₹3,000", "₹3,500", "₹4,000", "₹4,500"],
+    "correctAnswer": "₹4,000"
+  },
+  {
+    "id": 176,
+    "category": "Aptitude",
+    "difficulty": "Hard",
+    "question": "A pipe fills a tank in 6 hours, while another empties it in 12 hours. If both are opened together when the tank is empty, how long will it take to fill the tank?",
+    "options": ["8 hours", "10 hours", "12 hours", "18 hours"],
+    "correctAnswer": "12 hours"
+  },
+  {
+    "id": 177,
+    "category": "Aptitude",
+    "difficulty": "Hard",
+    "question": "A shopkeeper marks an item 40% above its cost price and gives a 20% discount on the marked price. What is the profit percentage?",
+    "options": ["8%", "10%", "12%", "15%"],
+    "correctAnswer": "12%"
+  },
+  {
+    "id": 178,
+    "category": "Aptitude",
+    "difficulty": "Hard",
+    "question": "A person travels equal distances at 40 km/h and 60 km/h. What is the average speed for the entire journey?",
+    "options": ["45 km/h", "48 km/h", "50 km/h", "52 km/h"],
+    "correctAnswer": "48 km/h"
+  },
+  {
+    "id": 179,
+    "category": "Aptitude",
+    "difficulty": "Hard",
+    "question": "If the probability of an event occurring is 0.35, what is the probability that it does not occur?",
+    "options": ["0.35", "0.55", "0.65", "0.75"],
+    "correctAnswer": "0.65"
+  },
+  {
+    "id": 180,
+    "category": "Aptitude",
+    "difficulty": "Hard",
+    "question": "A number is first increased by 20% and then decreased by 20%. What is the net percentage change?",
+    "options": ["No change", "4% increase", "4% decrease", "8% decrease"],
+    "correctAnswer": "4% decrease"
+  }
+]

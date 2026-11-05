@@ -1,0 +1,163 @@
+
+[
+  {
+    "id": 41,
+    "category": "Operating Systems",
+    "difficulty": "Easy",
+    "question": "Which component manages processes and hardware resources?",
+    "options": ["Compiler", "Operating System", "Text Editor", "Linker"],
+    "correctAnswer": "Operating System"
+  },
+  {
+    "id": 42,
+    "category": "Operating Systems",
+    "difficulty": "Easy",
+    "question": "A program in execution is called a:",
+    "options": ["Process", "File", "Thread Pool", "Page"],
+    "correctAnswer": "Process"
+  },
+  {
+    "id": 43,
+    "category": "Operating Systems",
+    "difficulty": "Easy",
+    "question": "Which CPU scheduling algorithm serves processes in arrival order?",
+    "options": ["SJF", "Round Robin", "FCFS", "Priority Scheduling"],
+    "correctAnswer": "FCFS"
+  },
+  {
+    "id": 44,
+    "category": "Operating Systems",
+    "difficulty": "Easy",
+    "question": "What is a context switch?",
+    "options": ["Changing source code", "Switching the CPU from one process or thread to another", "Formatting memory", "Rebooting the OS"],
+    "correctAnswer": "Switching the CPU from one process or thread to another"
+  },
+  {
+    "id": 45,
+    "category": "Operating Systems",
+    "difficulty": "Easy",
+    "question": "Which type of memory is volatile?",
+    "options": ["ROM", "SSD", "RAM", "DVD"],
+    "correctAnswer": "RAM"
+  },
+  {
+    "id": 46,
+    "category": "Operating Systems",
+    "difficulty": "Easy",
+    "question": "Which system call is commonly used to create a new process in Unix-like systems?",
+    "options": ["fork()", "printf()", "malloc()", "openlog()"],
+    "correctAnswer": "fork()"
+  },
+  {
+    "id": 47,
+    "category": "Operating Systems",
+    "difficulty": "Easy",
+    "question": "A thread is commonly described as a:",
+    "options": ["Lightweight unit of execution", "Physical disk block", "Network packet", "File system"],
+    "correctAnswer": "Lightweight unit of execution"
+  },
+  {
+    "id": 48,
+    "category": "Operating Systems",
+    "difficulty": "Medium",
+    "question": "Which of the following is NOT one of the four necessary Coffman conditions for deadlock?",
+    "options": ["Mutual Exclusion", "Hold and Wait", "Preemption", "Circular Wait"],
+    "correctAnswer": "Preemption"
+  },
+  {
+    "id": 49,
+    "category": "Operating Systems",
+    "difficulty": "Medium",
+    "question": "Which CPU scheduling algorithm uses a fixed time quantum?",
+    "options": ["FCFS", "Round Robin", "Non-preemptive SJF", "Priority Scheduling"],
+    "correctAnswer": "Round Robin"
+  },
+  {
+    "id": 50,
+    "category": "Operating Systems",
+    "difficulty": "Medium",
+    "question": "What is a page fault?",
+    "options": ["A CPU arithmetic error", "A referenced page is not currently in physical memory", "A disk has no partitions", "A process has terminated"],
+    "correctAnswer": "A referenced page is not currently in physical memory"
+  },
+  {
+    "id": 51,
+    "category": "Operating Systems",
+    "difficulty": "Medium",
+    "question": "Which page replacement algorithm can exhibit Belady's anomaly?",
+    "options": ["LRU", "Optimal", "FIFO", "MRU"],
+    "correctAnswer": "FIFO"
+  },
+  {
+    "id": 52,
+    "category": "Operating Systems",
+    "difficulty": "Medium",
+    "question": "What is the primary purpose of a semaphore?",
+    "options": ["Manage synchronization among processes or threads", "Compress files", "Allocate IP addresses", "Translate source code"],
+    "correctAnswer": "Manage synchronization among processes or threads"
+  },
+  {
+    "id": 53,
+    "category": "Operating Systems",
+    "difficulty": "Medium",
+    "question": "Thrashing occurs when a system spends excessive time:",
+    "options": ["Executing user code", "Swapping pages rather than performing useful execution", "Compiling programs", "Handling keyboard input"],
+    "correctAnswer": "Swapping pages rather than performing useful execution"
+  },
+  {
+    "id": 54,
+    "category": "Operating Systems",
+    "difficulty": "Medium",
+    "question": "Which memory allocation strategy chooses the smallest adequate free block?",
+    "options": ["First Fit", "Best Fit", "Worst Fit", "Next Fit"],
+    "correctAnswer": "Best Fit"
+  },
+  {
+    "id": 55,
+    "category": "Operating Systems",
+    "difficulty": "Hard",
+    "question": "The Banker's algorithm is primarily used for:",
+    "options": ["Deadlock avoidance", "Deadlock creation", "CPU instruction decoding", "Disk formatting"],
+    "correctAnswer": "Deadlock avoidance"
+  },
+  {
+    "id": 56,
+    "category": "Operating Systems",
+    "difficulty": "Hard",
+    "question": "What is the main idea of copy-on-write after process creation?",
+    "options": ["Copy every page immediately", "Share pages until a write requires a private copy", "Disable virtual memory", "Share writable pages without protection"],
+    "correctAnswer": "Share pages until a write requires a private copy"
+  },
+  {
+    "id": 57,
+    "category": "Operating Systems",
+    "difficulty": "Hard",
+    "question": "Which page replacement algorithm is theoretically optimal?",
+    "options": ["FIFO", "LRU", "Optimal (MIN)", "Clock"],
+    "correctAnswer": "Optimal (MIN)"
+  },
+  {
+    "id": 58,
+    "category": "Operating Systems",
+    "difficulty": "Hard",
+    "question": "A race condition occurs when:",
+    "options": ["Output depends on the timing or interleaving of concurrent operations", "A process has no parent", "A disk is full", "A CPU has one core"],
+    "correctAnswer": "Output depends on the timing or interleaving of concurrent operations"
+  },
+  {
+    "id": 59,
+    "category": "Operating Systems",
+    "difficulty": "Hard",
+    "question": "In a multilevel feedback queue, processes can:",
+    "options": ["Move between queues based on their behavior and scheduling rules", "Never change priority", "Run only in kernel mode", "Avoid context switches"],
+    "correctAnswer": "Move between queues based on their behavior and scheduling rules"
+  },
+  {
+    "id": 60,
+    "category": "Operating Systems",
+    "difficulty": "Hard",
+    "question": "Which synchronization mechanism is commonly used to provide mutual exclusion?",
+    "options": ["Mutex Lock", "DNS", "Page Table", "Inode"],
+    "correctAnswer": "Mutex Lock"
+  }
+]

@@ -1,0 +1,163 @@
+
+[
+  {
+    "id": 1,
+    "category": "DSA",
+    "difficulty": "Easy",
+    "question": "Which data structure follows LIFO?",
+    "options": ["Queue", "Stack", "Linked List", "Tree"],
+    "correctAnswer": "Stack"
+  },
+  {
+    "id": 2,
+    "category": "DSA",
+    "difficulty": "Easy",
+    "question": "What is the time complexity of accessing an array element by index?",
+    "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+    "correctAnswer": "O(1)"
+  },
+  {
+    "id": 3,
+    "category": "DSA",
+    "difficulty": "Easy",
+    "question": "Which data structure follows FIFO?",
+    "options": ["Stack", "Tree", "Queue", "Heap"],
+    "correctAnswer": "Queue"
+  },
+  {
+    "id": 4,
+    "category": "DSA",
+    "difficulty": "Easy",
+    "question": "Which traversal of a Binary Search Tree visits keys in sorted order?",
+    "options": ["Preorder", "Inorder", "Postorder", "Level order"],
+    "correctAnswer": "Inorder"
+  },
+  {
+    "id": 5,
+    "category": "DSA",
+    "difficulty": "Easy",
+    "question": "Which data structure is commonly used to implement BFS?",
+    "options": ["Stack", "Queue", "Heap", "Hash Set"],
+    "correctAnswer": "Queue"
+  },
+  {
+    "id": 6,
+    "category": "DSA",
+    "difficulty": "Easy",
+    "question": "What is the worst-case time complexity of linear search in n elements?",
+    "options": ["O(1)", "O(log n)", "O(n)", "O(n²)"],
+    "correctAnswer": "O(n)"
+  },
+  {
+    "id": 7,
+    "category": "DSA",
+    "difficulty": "Easy",
+    "question": "Which data structure is used to manage function calls and recursion?",
+    "options": ["Queue", "Stack", "Graph", "Hash Table"],
+    "correctAnswer": "Stack"
+  },
+  {
+    "id": 8,
+    "category": "DSA",
+    "difficulty": "Medium",
+    "question": "What is the worst-case time complexity of binary search on a sorted array?",
+    "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+    "correctAnswer": "O(log n)"
+  },
+  {
+    "id": 9,
+    "category": "DSA",
+    "difficulty": "Medium",
+    "question": "What is the time complexity of inserting a node at the head of a singly linked list?",
+    "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+    "correctAnswer": "O(1)"
+  },
+  {
+    "id": 10,
+    "category": "DSA",
+    "difficulty": "Medium",
+    "question": "Which sorting algorithm is stable in its standard implementation?",
+    "options": ["Heap Sort", "Selection Sort", "Merge Sort", "Quick Sort"],
+    "correctAnswer": "Merge Sort"
+  },
+  {
+    "id": 11,
+    "category": "DSA",
+    "difficulty": "Medium",
+    "question": "What is the average-case lookup complexity of a well-designed hash table?",
+    "options": ["O(n)", "O(log n)", "O(1)", "O(n log n)"],
+    "correctAnswer": "O(1)"
+  },
+  {
+    "id": 12,
+    "category": "DSA",
+    "difficulty": "Medium",
+    "question": "Which data structure is commonly used to efficiently implement Dijkstra's algorithm?",
+    "options": ["Min-priority queue", "Stack", "Trie", "Linked List"],
+    "correctAnswer": "Min-priority queue"
+  },
+  {
+    "id": 13,
+    "category": "DSA",
+    "difficulty": "Medium",
+    "question": "Which operations does a Disjoint Set Union data structure efficiently support?",
+    "options": ["Prefix matching", "Union and Find", "Range minimum queries", "String sorting"],
+    "correctAnswer": "Union and Find"
+  },
+  {
+    "id": 14,
+    "category": "DSA",
+    "difficulty": "Medium",
+    "question": "In a full binary tree, every node has:",
+    "options": ["Exactly one child", "Zero or two children", "At most three children", "At least one child"],
+    "correctAnswer": "Zero or two children"
+  },
+  {
+    "id": 15,
+    "category": "DSA",
+    "difficulty": "Hard",
+    "question": "What is the worst-case time complexity of Quick Sort?",
+    "options": ["O(n log n)", "O(log n)", "O(n²)", "O(n)"],
+    "correctAnswer": "O(n²)"
+  },
+  {
+    "id": 16,
+    "category": "DSA",
+    "difficulty": "Hard",
+    "question": "Which algorithm finds the maximum sum of a contiguous subarray in O(n) time?",
+    "options": ["Dijkstra's Algorithm", "Kadane's Algorithm", "Kruskal's Algorithm", "Floyd-Warshall"],
+    "correctAnswer": "Kadane's Algorithm"
+  },
+  {
+    "id": 17,
+    "category": "DSA",
+    "difficulty": "Hard",
+    "question": "What is the time complexity of BFS using an adjacency-list graph representation?",
+    "options": ["O(V + E)", "O(V²E)", "O(E log V)", "O(V log E)"],
+    "correctAnswer": "O(V + E)"
+  },
+  {
+    "id": 18,
+    "category": "DSA",
+    "difficulty": "Hard",
+    "question": "Which data structure is best suited for efficient prefix searching of strings?",
+    "options": ["Binary Heap", "Trie", "Stack", "Disjoint Set"],
+    "correctAnswer": "Trie"
+  },
+  {
+    "id": 19,
+    "category": "DSA",
+    "difficulty": "Hard",
+    "question": "What is the time complexity of building a binary heap using bottom-up heap construction?",
+    "options": ["O(n)", "O(n log n)", "O(log n)", "O(n²)"],
+    "correctAnswer": "O(n)"
+  },
+  {
+    "id": 20,
+    "category": "DSA",
+    "difficulty": "Hard",
+    "question": "Which algorithm is used to find strongly connected components in a directed graph?",
+    "options": ["Prim's Algorithm", "Kosaraju's Algorithm", "Binary Search", "Bellman-Ford"],
+    "correctAnswer": "Kosaraju's Algorithm"
+  }
+]

@@ -1,0 +1,163 @@
+
+[
+  {
+    "id": 181,
+    "category": "React",
+    "difficulty": "Easy",
+    "question": "What is React primarily used for?",
+    "options": ["Building user interfaces", "Managing databases", "Creating operating systems", "Writing server configurations"],
+    "correctAnswer": "Building user interfaces"
+  },
+  {
+    "id": 182,
+    "category": "React",
+    "difficulty": "Easy",
+    "question": "What is JSX in React?",
+    "options": ["A database query language", "A syntax extension that lets you write HTML-like markup in JavaScript", "A CSS framework", "A JavaScript testing library"],
+    "correctAnswer": "A syntax extension that lets you write HTML-like markup in JavaScript"
+  },
+  {
+    "id": 183,
+    "category": "React",
+    "difficulty": "Easy",
+    "question": "Which function is used to create a React component in a functional component approach?",
+    "options": ["A JavaScript function", "A CSS selector", "A database function", "An HTML attribute"],
+    "correctAnswer": "A JavaScript function"
+  },
+  {
+    "id": 184,
+    "category": "React",
+    "difficulty": "Easy",
+    "question": "What are props in React?",
+    "options": ["Internal component styles", "Data passed from a parent component to a child component", "A method to update the DOM directly", "Browser storage values"],
+    "correctAnswer": "Data passed from a parent component to a child component"
+  },
+  {
+    "id": 185,
+    "category": "React",
+    "difficulty": "Easy",
+    "question": "Which hook is commonly used to manage state in a functional component?",
+    "options": ["useEffect", "useRef", "useState", "useMemo"],
+    "correctAnswer": "useState"
+  },
+  {
+    "id": 186,
+    "category": "React",
+    "difficulty": "Easy",
+    "question": "Which syntax is used to render a JavaScript expression inside JSX?",
+    "options": ["{{ expression }}", "[ expression ]", "{ expression }", "( expression )"],
+    "correctAnswer": "{ expression }"
+  },
+  {
+    "id": 187,
+    "category": "React",
+    "difficulty": "Medium",
+    "question": "What is the purpose of the useEffect hook?",
+    "options": ["To perform side effects in functional components", "To define CSS classes", "To create React elements only", "To replace all event handlers"],
+    "correctAnswer": "To perform side effects in functional components"
+  },
+  {
+    "id": 188,
+    "category": "React",
+    "difficulty": "Medium",
+    "question": "Why does React require keys when rendering lists?",
+    "options": ["To encrypt list data", "To help React identify which items have changed, moved, or been removed", "To sort the list automatically", "To prevent all component re-renders"],
+    "correctAnswer": "To help React identify which items have changed, moved, or been removed"
+  },
+  {
+    "id": 189,
+    "category": "React",
+    "difficulty": "Medium",
+    "question": "What does useState return?",
+    "options": ["Only the current state", "Only a state update function", "An array containing the current state and its setter function", "An object containing props and state"],
+    "correctAnswer": "An array containing the current state and its setter function"
+  },
+  {
+    "id": 190,
+    "category": "React",
+    "difficulty": "Medium",
+    "question": "What is the purpose of useRef?",
+    "options": ["To store a mutable value that persists across renders without triggering a re-render when changed", "To automatically fetch API data", "To update state after every render", "To create a new component"],
+    "correctAnswer": "To store a mutable value that persists across renders without triggering a re-render when changed"
+  },
+  {
+    "id": 191,
+    "category": "React",
+    "difficulty": "Medium",
+    "question": "What is lifting state up in React?",
+    "options": ["Moving state into CSS", "Moving shared state to a common ancestor component", "Moving state into localStorage", "Converting state into props permanently"],
+    "correctAnswer": "Moving shared state to a common ancestor component"
+  },
+  {
+    "id": 192,
+    "category": "React",
+    "difficulty": "Medium",
+    "question": "What does React's controlled component approach mean for a form input?",
+    "options": ["The input value is managed by React state", "The input cannot be edited", "The browser stores the value only", "The input must use a ref instead of state"],
+    "correctAnswer": "The input value is managed by React state"
+  },
+  {
+    "id": 193,
+    "category": "React",
+    "difficulty": "Medium",
+    "question": "Which hook is designed to memoize a calculated value between renders?",
+    "options": ["useEffect", "useMemo", "useRef", "useContext"],
+    "correctAnswer": "useMemo"
+  },
+  {
+    "id": 194,
+    "category": "React",
+    "difficulty": "Medium",
+    "question": "What is the purpose of React Context?",
+    "options": ["To share values across a component tree without passing props through every level", "To replace JavaScript modules", "To store data permanently in a database", "To prevent components from rendering"],
+    "correctAnswer": "To share values across a component tree without passing props through every level"
+  },
+  {
+    "id": 195,
+    "category": "React",
+    "difficulty": "Hard",
+    "question": "What happens when a component's state is updated using its setter function?",
+    "options": ["React schedules an update and may render the component again", "The browser always reloads the entire page", "React permanently changes the component's props", "The component is immediately removed from the DOM"],
+    "correctAnswer": "React schedules an update and may render the component again"
+  },
+  {
+    "id": 196,
+    "category": "React",
+    "difficulty": "Hard",
+    "question": "What is the main purpose of React.memo?",
+    "options": ["To memoize a component and skip some re-renders when its props are unchanged", "To store component data in a database", "To replace useState", "To guarantee that a component never renders again"],
+    "correctAnswer": "To memoize a component and skip some re-renders when its props are unchanged"
+  },
+  {
+    "id": 197,
+    "category": "React",
+    "difficulty": "Hard",
+    "question": "What is a stale closure problem in React?",
+    "options": ["A callback uses values captured from an older render", "A component has too many CSS classes", "A browser cache stores old HTML", "A component loses its JSX syntax"],
+    "correctAnswer": "A callback uses values captured from an older render"
+  },
+  {
+    "id": 198,
+    "category": "React",
+    "difficulty": "Hard",
+    "question": "What is the purpose of Suspense in React?",
+    "options": ["To display a fallback UI while supported content is not ready", "To permanently stop component rendering", "To replace all error boundaries", "To automatically validate form inputs"],
+    "correctAnswer": "To display a fallback UI while supported content is not ready"
+  },
+  {
+    "id": 199,
+    "category": "React",
+    "difficulty": "Hard",
+    "question": "What does the functional updater form of a state setter help with?",
+    "options": ["Updating state based on the previous state value", "Updating props directly", "Preventing all asynchronous operations", "Changing the component's CSS"],
+    "correctAnswer": "Updating state based on the previous state value"
+  },
+  {
+    "id": 200,
+    "category": "React",
+    "difficulty": "Hard",
+    "question": "Which statement about React's reconciliation process is correct?",
+    "options": ["React compares the new element tree with the previous one to determine necessary updates", "React always replaces the entire DOM after every state update", "React converts all components into database records", "React skips comparing elements when keys are provided"],
+    "correctAnswer": "React compares the new element tree with the previous one to determine necessary updates"
+  }
+]

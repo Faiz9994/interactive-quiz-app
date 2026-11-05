@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Interactive Quiz App</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div class="quiz-container">
+      <!-- Welcome Screen -->
+      <div id="welcomeScreen">
+        <h1 id="heading">Interactive Quiz Application</h1>
+        <p id="description">Test your knowledge!</p>
+        <p>Best Score: <span id="bestScore">0</span></p>
+        <div class="quiz-settings">
+          <label for="categorySelect">Choose Category:</label>
+          <select id="categorySelect">
+            <option value="" disabled selected>Select a category</option>
+            <option value="DSA">DSA</option>
+            <option value="DBMS & SQL">DBMS & SQL</option>
+            <option value="Operating Systems">Operating Systems</option>
+            <option value="Computer Networks">Computer Networks</option>
+            <option value="OOP">OOP</option>
+            <option value="Programming">Programming</option>
+            <option value="JavaScript">JavaScript</option>
+            <option value="HTML & CSS">HTML & CSS</option>
+            <option value="Aptitude">Aptitude</option>
+            <option value="React">React</option>
+          </select>
+
+          <label for="difficultySelect">Choose Difficulty:</label>
+
+          <select id="difficultySelect">
+            <option value="all">All Levels</option>
+            <option value="Easy">Easy</option>
+            <option value="Medium">Medium</option>
+            <option value="Hard">Hard</option>
+          </select>
+        </div>
+        <button id="startBtn">Start Quiz</button>
+      </div>
+
+      <!-- Quiz Screen -->
+      <div id="quizScreen" hidden>
+        <div class="quiz-top-bar">
+          <p id="timer">Time Left: 20:00</p>
+          <button id="homeBtn" type="button">Home</button>
+        </div>
+        <p id="questionCounter"></p>
+
+        <!-- Progress Bar -->
+        <div class="progress-container">
+          <div id="progressBar"></div>
+        </div>
+
+        <!-- Question and Palette Layout -->
+        <div class="quiz-layout">
+          <!-- Main Question Area -->
+          <div class="quiz-main">
+            <h2 id="questionText"></h2>
+
+            <div id="optionsContainer"></div>
+
+            <button id="prevBtn">Previous Question</button>
+            <button id="nextBtn">Next Question</button>
+            <button id="submitBtn" type="button">Submit Quiz</button>
+          </div>
+
+          <!-- Question Navigation Palette -->
+          <div class="palette-container">
+            <h3>Question Palette</h3>
+            <div id="questionPalette"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Result Screen -->
+      <div id="resultScreen" hidden>
+        <h2>Quiz Completed</h2>
+        <h3 id="finalScore"></h3>
+        <p id="percentage"></p>
+
+        <div id="resultStats">
+          <p id="correctCount"></p>
+          <p id="wrongCount"></p>
+          <p id="accuracy"></p>
+        </div>
+
+        <h3>Answer Review</h3>
+        <div id="reviewContainer"></div>
+
+        <button id="restartBtn">Restart Quiz</button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

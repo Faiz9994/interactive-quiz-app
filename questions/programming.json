@@ -1,0 +1,163 @@
+
+[
+  {
+    "id": 101,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "question": "In C and C++, which symbol terminates most statements?",
+    "options": [":", ";", "}", ","],
+    "correctAnswer": ";"
+  },
+  {
+    "id": 102,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "question": "Which loop checks its condition before executing its body?",
+    "options": ["do-while", "while", "Both always execute once", "Neither"],
+    "correctAnswer": "while"
+  },
+  {
+    "id": 103,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "question": "Which data type stores a single character in C?",
+    "options": ["int", "float", "char", "double"],
+    "correctAnswer": "char"
+  },
+  {
+    "id": 104,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "question": "What is the result of 7 / 2 in integer arithmetic in C++?",
+    "options": ["3", "3.5", "4", "2"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 105,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "question": "Which keyword declares a constant variable in C++?",
+    "options": ["constant", "let", "const", "fixed"],
+    "correctAnswer": "const"
+  },
+  {
+    "id": 106,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "question": "Which of these Python data types is immutable?",
+    "options": ["list", "dict", "set", "tuple"],
+    "correctAnswer": "tuple"
+  },
+  {
+    "id": 107,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "question": "Which Python keyword is used to define a function?",
+    "options": ["func", "def", "function", "lambda"],
+    "correctAnswer": "def"
+  },
+  {
+    "id": 108,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "question": "What does a pointer store in C and C++?",
+    "options": ["A memory address", "A source-code line", "A CPU instruction", "A file extension"],
+    "correctAnswer": "A memory address"
+  },
+  {
+    "id": 109,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "question": "What is the output of len([2, 4, 6]) in Python?",
+    "options": ["2", "3", "4", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 110,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "question": "Which C++ container provides dynamic contiguous storage?",
+    "options": ["std::list", "std::vector", "std::map", "std::set"],
+    "correctAnswer": "std::vector"
+  },
+  {
+    "id": 111,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "question": "What is recursion?",
+    "options": ["A function calling itself directly or indirectly", "A loop without a condition", "A variable changing type", "A program compiling twice"],
+    "correctAnswer": "A function calling itself directly or indirectly"
+  },
+  {
+    "id": 112,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "question": "In Java, which keyword is used when a class inherits another class?",
+    "options": ["implements", "extends", "inherits", "superclass"],
+    "correctAnswer": "extends"
+  },
+  {
+    "id": 113,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "question": "Which Python construct is commonly used to handle exceptions?",
+    "options": ["try/except", "for/in", "with/as only", "def/class"],
+    "correctAnswer": "try/except"
+  },
+  {
+    "id": 114,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "question": "What does pass-by-value mean in C++?",
+    "options": ["A copy of the argument value is passed", "The caller's variable is always modified", "Only pointers can be passed", "The function receives no argument"],
+    "correctAnswer": "A copy of the argument value is passed"
+  },
+  {
+    "id": 115,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "question": "What is the output of print(0.1 + 0.2 == 0.3) in typical Python floating-point arithmetic?",
+    "options": ["True", "False", "None", "TypeError"],
+    "correctAnswer": "False"
+  },
+  {
+    "id": 116,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "question": "What does std::move primarily do in C++?",
+    "options": ["Moves an object immediately by itself", "Casts an expression to an rvalue reference, enabling move operations", "Copies an object deeply", "Deletes the source object"],
+    "correctAnswer": "Casts an expression to an rvalue reference, enabling move operations"
+  },
+  {
+    "id": 117,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "question": "Which Java collection preserves insertion order and allows duplicate elements?",
+    "options": ["HashSet", "ArrayList", "TreeSet", "HashMap"],
+    "correctAnswer": "ArrayList"
+  },
+  {
+    "id": 118,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "question": "What is the average-case lookup complexity of a hash map with a good hash function?",
+    "options": ["O(1)", "O(log n)", "O(n)", "O(n²)"],
+    "correctAnswer": "O(1)"
+  },
+  {
+    "id": 119,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "question": "What does RAII in C++ associate resource management with?",
+    "options": ["Object lifetime", "Global variables only", "Manual garbage collection", "Compiler warnings"],
+    "correctAnswer": "Object lifetime"
+  },
+  {
+    "id": 120,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "question": "Which Python protocol allows an object to be used with the with statement for managed setup and cleanup?",
+    "options": ["Iterator protocol", "Context manager protocol", "Hash protocol", "Numeric protocol"],
+    "correctAnswer": "Context manager protocol"
+  }
+]

@@ -1,0 +1,163 @@
+
+[
+  {
+    "id": 141,
+    "category": "HTML & CSS",
+    "difficulty": "Easy",
+    "question": "What does HTML stand for?",
+    "options": ["HyperText Markup Language", "HighText Machine Language", "Hyper Transfer Main Language", "Home Tool Markup Language"],
+    "correctAnswer": "HyperText Markup Language"
+  },
+  {
+    "id": 142,
+    "category": "HTML & CSS",
+    "difficulty": "Easy",
+    "question": "Which HTML tag creates a hyperlink?",
+    "options": ["<link>", "<a>", "<href>", "<url>"],
+    "correctAnswer": "<a>"
+  },
+  {
+    "id": 143,
+    "category": "HTML & CSS",
+    "difficulty": "Easy",
+    "question": "Which HTML element represents the main content of a document?",
+    "options": ["<section>", "<main>", "<aside>", "<footer>"],
+    "correctAnswer": "<main>"
+  },
+  {
+    "id": 144,
+    "category": "HTML & CSS",
+    "difficulty": "Easy",
+    "question": "Which CSS property changes the text color?",
+    "options": ["font-style", "background-color", "color", "text-decoration"],
+    "correctAnswer": "color"
+  },
+  {
+    "id": 145,
+    "category": "HTML & CSS",
+    "difficulty": "Easy",
+    "question": "Which CSS selector targets an element with id=\"header\"?",
+    "options": [".header", "#header", "*header", "header#"],
+    "correctAnswer": "#header"
+  },
+  {
+    "id": 146,
+    "category": "HTML & CSS",
+    "difficulty": "Easy",
+    "question": "Which HTML attribute provides alternative text for an image?",
+    "options": ["title", "src", "alt", "name"],
+    "correctAnswer": "alt"
+  },
+  {
+    "id": 147,
+    "category": "HTML & CSS",
+    "difficulty": "Easy",
+    "question": "Which CSS property controls the space inside an element's border?",
+    "options": ["margin", "padding", "outline", "gap"],
+    "correctAnswer": "padding"
+  },
+  {
+    "id": 148,
+    "category": "HTML & CSS",
+    "difficulty": "Medium",
+    "question": "Which CSS layout system is primarily designed for arranging items along one dimension?",
+    "options": ["CSS Grid", "Flexbox", "Float layout", "Positioning"],
+    "correctAnswer": "Flexbox"
+  },
+  {
+    "id": 149,
+    "category": "HTML & CSS",
+    "difficulty": "Medium",
+    "question": "Which CSS property controls the stacking order of positioned elements?",
+    "options": ["display", "z-index", "opacity", "overflow"],
+    "correctAnswer": "z-index"
+  },
+  {
+    "id": 150,
+    "category": "HTML & CSS",
+    "difficulty": "Medium",
+    "question": "Which HTML input type provides a built-in email format check during form validation?",
+    "options": ["text", "mail", "email", "validate"],
+    "correctAnswer": "email"
+  },
+  {
+    "id": 151,
+    "category": "HTML & CSS",
+    "difficulty": "Medium",
+    "question": "What is the default position value of an HTML element in CSS?",
+    "options": ["relative", "absolute", "fixed", "static"],
+    "correctAnswer": "static"
+  },
+  {
+    "id": 152,
+    "category": "HTML & CSS",
+    "difficulty": "Medium",
+    "question": "Which CSS unit is relative to the font size of the root element?",
+    "options": ["em", "rem", "vw", "px"],
+    "correctAnswer": "rem"
+  },
+  {
+    "id": 153,
+    "category": "HTML & CSS",
+    "difficulty": "Medium",
+    "question": "Which CSS property defines the columns in a CSS Grid container?",
+    "options": ["grid-template-columns", "grid-column-gap", "flex-direction", "column-count"],
+    "correctAnswer": "grid-template-columns"
+  },
+  {
+    "id": 154,
+    "category": "HTML & CSS",
+    "difficulty": "Medium",
+    "question": "Which HTML attribute connects a label to a form control by matching its id?",
+    "options": ["name", "for", "target", "action"],
+    "correctAnswer": "for"
+  },
+  {
+    "id": 155,
+    "category": "HTML & CSS",
+    "difficulty": "Hard",
+    "question": "Which selector generally has the highest specificity among these choices?",
+    "options": ["div", ".card", "#main", "*"],
+    "correctAnswer": "#main"
+  },
+  {
+    "id": 156,
+    "category": "HTML & CSS",
+    "difficulty": "Hard",
+    "question": "In the CSS box model, what does box-sizing: border-box do?",
+    "options": ["Excludes padding and border from the declared width", "Includes padding and border within the declared width", "Removes the content box", "Makes every element inline"],
+    "correctAnswer": "Includes padding and border within the declared width"
+  },
+  {
+    "id": 157,
+    "category": "HTML & CSS",
+    "difficulty": "Hard",
+    "question": "Which CSS pseudo-class applies styles when a user moves the pointer over an element?",
+    "options": [":focus", ":active", ":hover", ":visited"],
+    "correctAnswer": ":hover"
+  },
+  {
+    "id": 158,
+    "category": "HTML & CSS",
+    "difficulty": "Hard",
+    "question": "Which media query targets viewports with a maximum width of 768px?",
+    "options": ["@media (min-width: 768px)", "@media (max-width: 768px)", "@media (width: 768px)", "@media screen-height: 768px"],
+    "correctAnswer": "@media (max-width: 768px)"
+  },
+  {
+    "id": 159,
+    "category": "HTML & CSS",
+    "difficulty": "Hard",
+    "question": "What is the effect of setting overflow: hidden on an element?",
+    "options": ["Content overflowing its box is clipped", "Content automatically becomes scrollable", "The element is removed from layout", "The element expands to fit all content"],
+    "correctAnswer": "Content overflowing its box is clipped"
+  },
+  {
+    "id": 160,
+    "category": "HTML & CSS",
+    "difficulty": "Hard",
+    "question": "In Flexbox, which property controls alignment along the cross axis?",
+    "options": ["justify-content", "align-items", "flex-direction", "flex-wrap"],
+    "correctAnswer": "align-items"
+  }
+]

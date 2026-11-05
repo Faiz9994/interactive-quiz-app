@@ -1,0 +1,163 @@
+
+[
+  {
+    "id": 81,
+    "category": "OOP",
+    "difficulty": "Easy",
+    "question": "Which OOP concept bundles data and methods together?",
+    "options": ["Inheritance", "Encapsulation", "Polymorphism", "Compilation"],
+    "correctAnswer": "Encapsulation"
+  },
+  {
+    "id": 82,
+    "category": "OOP",
+    "difficulty": "Easy",
+    "question": "Which concept allows a class to acquire properties and methods from another class?",
+    "options": ["Inheritance", "Abstraction", "Overloading", "Casting"],
+    "correctAnswer": "Inheritance"
+  },
+  {
+    "id": 83,
+    "category": "OOP",
+    "difficulty": "Easy",
+    "question": "An object is an instance of a:",
+    "options": ["Method", "Class", "Package", "Interface"],
+    "correctAnswer": "Class"
+  },
+  {
+    "id": 84,
+    "category": "OOP",
+    "difficulty": "Easy",
+    "question": "Which Java access modifier restricts direct access to members within the defining class?",
+    "options": ["public", "protected", "private", "static"],
+    "correctAnswer": "private"
+  },
+  {
+    "id": 85,
+    "category": "OOP",
+    "difficulty": "Easy",
+    "question": "Which OOP concept exposes essential features while hiding implementation details?",
+    "options": ["Abstraction", "Recursion", "Serialization", "Overriding"],
+    "correctAnswer": "Abstraction"
+  },
+  {
+    "id": 86,
+    "category": "OOP",
+    "difficulty": "Easy",
+    "question": "Which special member function has the same name as its class in C++?",
+    "options": ["Destructor", "Constructor", "Friend Function", "Operator"],
+    "correctAnswer": "Constructor"
+  },
+  {
+    "id": 87,
+    "category": "OOP",
+    "difficulty": "Easy",
+    "question": "What is method overloading?",
+    "options": ["Same method name with different parameter lists", "Replacing a parent method in a child class", "Hiding all methods", "Calling a method recursively"],
+    "correctAnswer": "Same method name with different parameter lists"
+  },
+  {
+    "id": 88,
+    "category": "OOP",
+    "difficulty": "Medium",
+    "question": "Runtime polymorphism in C++ is commonly achieved using:",
+    "options": ["Function templates only", "Virtual functions", "Macros", "Namespaces"],
+    "correctAnswer": "Virtual functions"
+  },
+  {
+    "id": 89,
+    "category": "OOP",
+    "difficulty": "Medium",
+    "question": "When does method overriding occur?",
+    "options": ["A subclass provides its own implementation of an inherited method", "Two methods differ only by return type", "A method calls itself", "A class has two constructors"],
+    "correctAnswer": "A subclass provides its own implementation of an inherited method"
+  },
+  {
+    "id": 90,
+    "category": "OOP",
+    "difficulty": "Medium",
+    "question": "Which relationship is represented by inheritance?",
+    "options": ["HAS-A", "IS-A", "USES-A only", "PART-OF"],
+    "correctAnswer": "IS-A"
+  },
+  {
+    "id": 91,
+    "category": "OOP",
+    "difficulty": "Medium",
+    "question": "Which C++ class cannot be instantiated directly because it contains at least one pure virtual function?",
+    "options": ["Friend Class", "Abstract Class", "Static Class", "Inline Class"],
+    "correctAnswer": "Abstract Class"
+  },
+  {
+    "id": 92,
+    "category": "OOP",
+    "difficulty": "Medium",
+    "question": "What is composition in OOP?",
+    "options": ["A whole-part relationship where an object owns its components", "A class inheriting from two classes", "A method with many parameters", "A function returning an object"],
+    "correctAnswer": "A whole-part relationship where an object owns its components"
+  },
+  {
+    "id": 93,
+    "category": "OOP",
+    "difficulty": "Medium",
+    "question": "Which SOLID principle suggests depending on abstractions rather than concrete implementations?",
+    "options": ["Single Responsibility Principle", "Dependency Inversion Principle", "Open/Closed Principle", "Interface Segregation Principle"],
+    "correctAnswer": "Dependency Inversion Principle"
+  },
+  {
+    "id": 94,
+    "category": "OOP",
+    "difficulty": "Medium",
+    "question": "Which C++ special member function is called when an object is destroyed?",
+    "options": ["Constructor", "Copy Constructor", "Destructor", "Assignment Operator"],
+    "correctAnswer": "Destructor"
+  },
+  {
+    "id": 95,
+    "category": "OOP",
+    "difficulty": "Hard",
+    "question": "What is object slicing in C++?",
+    "options": ["Copying a derived object into a base object by value, losing derived-specific state", "Deleting an object through a pointer", "Splitting a class into multiple files", "Calling a virtual method twice"],
+    "correctAnswer": "Copying a derived object into a base object by value, losing derived-specific state"
+  },
+  {
+    "id": 96,
+    "category": "OOP",
+    "difficulty": "Hard",
+    "question": "Why should a polymorphic C++ base class often have a virtual destructor?",
+    "options": ["To enable correct derived-object destruction through a base pointer", "To make constructors virtual", "To prevent inheritance", "To speed up stack allocation"],
+    "correctAnswer": "To enable correct derived-object destruction through a base pointer"
+  },
+  {
+    "id": 97,
+    "category": "OOP",
+    "difficulty": "Hard",
+    "question": "Which SOLID principle states that a class should have only one reason to change?",
+    "options": ["Open/Closed Principle", "Single Responsibility Principle", "Liskov Substitution Principle", "Dependency Inversion Principle"],
+    "correctAnswer": "Single Responsibility Principle"
+  },
+  {
+    "id": 98,
+    "category": "OOP",
+    "difficulty": "Hard",
+    "question": "What does the Liskov Substitution Principle require?",
+    "options": ["Subtypes should remain usable wherever their base type is expected without breaking correctness", "Every class must be final", "Subclasses must add new fields", "All methods must be static"],
+    "correctAnswer": "Subtypes should remain usable wherever their base type is expected without breaking correctness"
+  },
+  {
+    "id": 99,
+    "category": "OOP",
+    "difficulty": "Hard",
+    "question": "Which C++ cast performs runtime-checked downcasting for polymorphic types?",
+    "options": ["static_cast", "reinterpret_cast", "dynamic_cast", "const_cast"],
+    "correctAnswer": "dynamic_cast"
+  },
+  {
+    "id": 100,
+    "category": "OOP",
+    "difficulty": "Hard",
+    "question": "Which design pattern ensures a class has a single shared instance through controlled access?",
+    "options": ["Observer", "Factory Method", "Singleton", "Strategy"],
+    "correctAnswer": "Singleton"
+  }
+]

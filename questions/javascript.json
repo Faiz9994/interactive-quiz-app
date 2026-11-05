@@ -1,0 +1,163 @@
+
+[
+  {
+    "id": 121,
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "question": "Which keyword declares a block-scoped variable that can be reassigned?",
+    "options": ["const", "let", "static", "define"],
+    "correctAnswer": "let"
+  },
+  {
+    "id": 122,
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "question": "What does typeof null return in JavaScript?",
+    "options": ["null", "object", "undefined", "boolean"],
+    "correctAnswer": "object"
+  },
+  {
+    "id": 123,
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "question": "Which method converts a JSON string into a JavaScript value?",
+    "options": ["JSON.stringify()", "JSON.parse()", "Object.toJSON()", "parse.JSON()"],
+    "correctAnswer": "JSON.parse()"
+  },
+  {
+    "id": 124,
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "question": "Which array method adds an element to the end of an array?",
+    "options": ["pop()", "shift()", "push()", "unshift()"],
+    "correctAnswer": "push()"
+  },
+  {
+    "id": 125,
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "question": "Which operator compares both value and type without type coercion?",
+    "options": ["==", "=", "===", "!="],
+    "correctAnswer": "==="
+  },
+  {
+    "id": 126,
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "question": "Which keyword is used to declare a regular function?",
+    "options": ["func", "def", "function", "method"],
+    "correctAnswer": "function"
+  },
+  {
+    "id": 127,
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "question": "What does Array.isArray([]) return?",
+    "options": ["true", "false", "undefined", "null"],
+    "correctAnswer": "true"
+  },
+  {
+    "id": 128,
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "question": "What is a closure in JavaScript?",
+    "options": ["A function bundled with its lexical environment", "A function with no parameters", "An object frozen at runtime", "A loop callback only"],
+    "correctAnswer": "A function bundled with its lexical environment"
+  },
+  {
+    "id": 129,
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "question": "What happens when one input promise rejects in Promise.all()?",
+    "options": ["It waits and returns all fulfilled values", "The returned promise rejects with the rejection reason", "It ignores the rejection", "It automatically retries the rejected promise"],
+    "correctAnswer": "The returned promise rejects with the rejection reason"
+  },
+  {
+    "id": 130,
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "question": "Which array method creates a new array by transforming each element?",
+    "options": ["filter()", "map()", "find()", "some()"],
+    "correctAnswer": "map()"
+  },
+  {
+    "id": 131,
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "question": "What is the result of 0 == false in JavaScript?",
+    "options": ["true", "false", "undefined", "TypeError"],
+    "correctAnswer": "true"
+  },
+  {
+    "id": 132,
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "question": "In an arrow function, how is the value of this determined?",
+    "options": ["By the caller at invocation time", "Lexically from the surrounding scope", "Always as the global object", "From the prototype of the returned value"],
+    "correctAnswer": "Lexically from the surrounding scope"
+  },
+  {
+    "id": 133,
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "question": "Which statement about const is correct?",
+    "options": ["The binding cannot be reassigned", "The object value is deeply immutable", "It is function-scoped", "It can be redeclared in the same scope"],
+    "correctAnswer": "The binding cannot be reassigned"
+  },
+  {
+    "id": 134,
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "question": "What does event.preventDefault() do?",
+    "options": ["Stops event propagation", "Prevents the browser's default action", "Removes the event listener", "Stops JavaScript execution"],
+    "correctAnswer": "Prevents the browser's default action"
+  },
+  {
+    "id": 135,
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "question": "What is logged by console.log(typeof NaN)?",
+    "options": ["NaN", "number", "undefined", "object"],
+    "correctAnswer": "number"
+  },
+  {
+    "id": 136,
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "question": "Which queue is generally processed before the next timer task after the current call stack becomes empty?",
+    "options": ["Macrotask queue", "Microtask queue", "Network queue", "Timer queue"],
+    "correctAnswer": "Microtask queue"
+  },
+  {
+    "id": 137,
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "question": "What does Object.freeze() do to an object?",
+    "options": ["Deep-freezes all nested objects", "Prevents extensions and makes own data properties non-writable and non-configurable", "Creates an immutable copy", "Prevents reading properties"],
+    "correctAnswer": "Prevents extensions and makes own data properties non-writable and non-configurable"
+  },
+  {
+    "id": 138,
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "question": "What is the result of [] + [] in JavaScript?",
+    "options": ["[]", "0", "An empty string", "NaN"],
+    "correctAnswer": "An empty string"
+  },
+  {
+    "id": 139,
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "question": "Which browser API schedules a callback before the next repaint?",
+    "options": ["setInterval()", "requestAnimationFrame()", "queueMicrotask()", "setTimeout()"],
+    "correctAnswer": "requestAnimationFrame()"
+  },
+  {
+    "id": 140,
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "question": "What happens when optional chaining encounters null or undefined on its left side?",
+    "options": ["It throws a TypeError", "It returns undefined without accessing further", "It returns false", "It creates an empty object"],
+    "correctAnswer": "It returns undefined without accessing further"
+  }
+]
